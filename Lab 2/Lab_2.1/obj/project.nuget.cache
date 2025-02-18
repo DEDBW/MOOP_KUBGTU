@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLr/vb1XRQKFKS0yv7dq9sK/vqrAWzUr6h1cK6vcgqbzUpfQ7LdBEO0UU4zImpihmQl1adMTOYcbrIj9H9g6Pg==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\2 курс\\МООП\\Лабы\\Lab 2\\Lab_2.1\\Lab_2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trend\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\trend\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

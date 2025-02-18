@@ -5,6 +5,11 @@ namespace STLab01
     {
         public static void Sort(int[] arr)
         {
+            if (arr == null)
+            {
+                return;
+            }
+
             int n = arr.Length;
 
             for (int gap = n / 2; gap > 0; gap /= 2)

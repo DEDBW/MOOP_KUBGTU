@@ -9,11 +9,19 @@ namespace STLab01Test
     public class ShellSortTests
     {
         [Test]
+        public void Sort_NullArray_DoesNotThrowException()
+        {
+            int[] arr = null;
+            ShellSort.Sort(arr);
+            ClassicAssert.IsNull(arr);
+        }
+
+        [Test]
         public void Sort_EmptyArray_DoesNotChangeArray()
         {
             int[] arr = { };
             ShellSort.Sort(arr);
-            ClassicAssert.AreEqual(0, arr.Length);
+            ClassicAssert.AreEqual(new int[] {  }, arr);
         }
 
         [Test]
@@ -21,7 +29,7 @@ namespace STLab01Test
         {
             int[] arr = { 5 };
             ShellSort.Sort(arr);
-            ClassicAssert.AreEqual(5, arr[0]);
+            ClassicAssert.AreEqual(new int[] { 5 }, arr);
         }
 
         [Test]

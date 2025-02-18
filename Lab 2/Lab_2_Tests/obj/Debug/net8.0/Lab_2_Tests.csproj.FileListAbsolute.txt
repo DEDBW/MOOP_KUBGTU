@@ -103,3 +103,4 @@ D:\Учёба\2 курс\МООП\Лабы\Lab 2\Lab_2_Tests\bin\Debug\net8.0\zh
 D:\Учёба\2 курс\МООП\Лабы\Lab 2\Lab_2_Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Учёба\2 курс\МООП\Лабы\Lab 2\Lab_2_Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Учёба\2 курс\МООП\Лабы\Lab 2\Lab_2_Tests\obj\Debug\net8.0\Lab_2_Tests.genruntimeconfig.cache
+D:\Учёба\2 курс\МООП\Лабы\Lab 2\Lab_2_Tests\obj\Debug\net8.0\Lab_2_Tests.sourcelink.json
